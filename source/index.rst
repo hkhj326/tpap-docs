@@ -8,4 +8,3 @@ tpap 文档中心
     :titlesonly:
 
     kissy/index
-    alimap/index

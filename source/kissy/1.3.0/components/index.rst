@@ -1,9 +1,10 @@
-组件API
+components
 ==========================================
 
 .. toctree::
     :titlesonly:
 
     calendar/index
+    imagezoom/index
 
 

@@ -141,7 +141,76 @@ node
             KISSY.all(ev.target).val('值被改变啦');
         });
     </script>
-    
 
+
+demo 代码样例
+-----------------------------------------------
+
+
+    **获取节点相关的示例**
+
+    .. raw:: html
+
+        <iframe width="100%" height="470"  class="iframe-demo" src="http://tpap-docs.taegrid.taobao.com/kissy/1.3.0/core/node/getNode.php"></iframe>
+
+    **对应DEMO html/php的代码**
+
+    .. literalinclude:: /raw/tpap/kissy/1.3.0/core/node/getNode.php
+        :language: html
+
+    **对应DEMO javascript的代码**
+
+    .. literalinclude:: /raw/tpap/kissy/1.3.0/core/node/getNode.js
+        :language: javascript
+
+
+    **节点样式相关的示例**
+
+    .. raw:: html
+
+        <iframe width="100%" height="320"  class="iframe-demo" src="http://tpap-docs.taegrid.taobao.com/kissy/1.3.0/core/node/cssNode.php"></iframe>
+
+    **对应DEMO html/php的代码**
+
+    .. literalinclude:: /raw/tpap/kissy/1.3.0/core/node/cssNode.php
+        :language: html
+
+    **对应DEMO javascript的代码**
+
+    .. literalinclude:: /raw/tpap/kissy/1.3.0/core/node/cssNode.js
+        :language: javascript
+
+    **节点动画相关的示例**
+
+    .. raw:: html
+
+        <iframe width="100%" height="260"  class="iframe-demo" src="http://tpap-docs.taegrid.taobao.com/kissy/1.3.0/core/node/aniNode.php"></iframe>
+
+    **对应DEMO html/php的代码**
+
+    .. literalinclude:: /raw/tpap/kissy/1.3.0/core/node/aniNode.php
+        :language: html
+
+    **对应DEMO javascript的代码**
+
+    .. literalinclude:: /raw/tpap/kissy/1.3.0/core/node/aniNode.js
+        :language: javascript
+
+    
+    **节点操作相关的示例**
+
+    .. raw:: html
+
+        <iframe width="100%" height="260"  class="iframe-demo" src="http://tpap-docs.taegrid.taobao.com/kissy/1.3.0/core/node/optNode.php"></iframe>
+
+    **对应DEMO html/php的代码**
+
+    .. literalinclude:: /raw/tpap/kissy/1.3.0/core/node/optNode.php
+        :language: html
+
+    **对应DEMO javascript的代码**
+
+    .. literalinclude:: /raw/tpap/kissy/1.3.0/core/node/optNode.js
+        :language: javascript
 
 
