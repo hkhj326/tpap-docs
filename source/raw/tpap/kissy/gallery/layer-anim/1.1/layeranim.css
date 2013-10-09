@@ -1,0 +1,35 @@
+/* style sheet */
+.layerAnimTest {
+    position: relative;
+    height: 400px;
+    width: 400px;
+}
+.layer1,
+.layer2,
+.layer3,
+.layer4,
+.layer5{
+    position: absolute;
+    background: red;
+    height: 20px;
+    width: 20px;
+}
+.layer2 {
+    background: blue;
+    top: 20px;
+}
+.layer3 {
+    background: green;
+    top: 40px;
+}
+.layer4 {
+    background: yellow;
+    top: 60px;
+}
+.layer5 {
+    background: purple;
+    top: 80px;
+}
+.msg {
+    color:red;
+}

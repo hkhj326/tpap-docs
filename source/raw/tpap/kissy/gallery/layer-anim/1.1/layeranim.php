@@ -1,50 +1,15 @@
-<!--include kissy core and kcharts file-->
+<!--include kissy core and layer-anim file-->
 <cajamodules include="kissy/1.3.0/core,kissy/gallery/layer-anim/1.1/index"/>
 
 <!--refer js file-->
 <script src="/assets/javascripts/log.js"></script>
 
-<script src="/kissy/gallery/layer-anim/1.1/layer-anim.js"></script>
+<script src="/kissy/gallery/layer-anim/1.1/layeranim.js"></script>
 
 
 <h1>DEMO</h1>
+<link rel="stylesheet" href="/kissy/gallery/layer-anim/1.1/layeranim.css" />
 
-<style>
-    .layerAnimTest {
-        position: relative;
-        height: 400px;
-        width: 400px;
-    }
-    .layer1,
-    .layer2,
-    .layer3,
-    .layer4,
-    .layer5{
-        position: absolute;
-        background: red;
-        height: 20px;
-        width: 20px;
-    }
-    .layer2 {
-        background: blue;
-        top: 20px;
-    }
-    .layer3 {
-        background: green;
-        top: 40px;
-    }
-    .layer4 {
-        background: yellow;
-        top: 60px;
-    }
-    .layer5 {
-        background: purple;
-        top: 80px;
-    }
-    .msg {
-        color:red;
-    }
-</style>
 <div class="layerAnimTest">
     <div class="layer1"></div>
     <div class="layer2"></div>
